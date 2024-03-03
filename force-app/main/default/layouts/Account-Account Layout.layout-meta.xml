@@ -23,6 +23,10 @@
                 <behavior>Edit</behavior>
                 <field>New_Text_Field__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Account_related_to__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
